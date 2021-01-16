@@ -4,7 +4,7 @@ repo: UpDB # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: WP Sur
+  - name: Source
     url: $WP_SUR
   - name: WP Nur
     url: $WP_NUR
