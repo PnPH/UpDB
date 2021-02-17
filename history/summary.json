@@ -42,18 +42,20 @@
     "url": "$WP_FAR",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "wp-far",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3496,
-    "timeDay": 4605,
-    "timeWeek": 4086,
-    "timeMonth": 3537,
-    "timeYear": 3496,
-    "dailyMinutesDown": {}
+    "time": 3440,
+    "timeDay": 2878,
+    "timeWeek": 3719,
+    "timeMonth": 3463,
+    "timeYear": 3440,
+    "dailyMinutesDown": {
+      "2021-02-17": 0
+    }
   },
   {
     "name": "WP ERBM",
