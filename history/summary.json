@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.95%",
-    "time": 508,
-    "timeDay": 856,
-    "timeWeek": 479,
-    "timeMonth": 516,
-    "timeYear": 508,
+    "time": 517,
+    "timeDay": 822,
+    "timeWeek": 535,
+    "timeMonth": 527,
+    "timeYear": 517,
     "dailyMinutesDown": {
       "2021-01-28": 21
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 6138,
-    "timeDay": 4943,
-    "timeWeek": 6940,
-    "timeMonth": 6343,
-    "timeYear": 6138,
+    "time": 6086,
+    "timeDay": 3956,
+    "timeWeek": 6364,
+    "timeMonth": 6291,
+    "timeYear": 6086,
     "dailyMinutesDown": {}
   },
   {
@@ -43,19 +43,17 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "wp-far",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.50%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
-    "time": 3549,
-    "timeDay": 4626,
-    "timeWeek": 4208,
-    "timeMonth": 3604,
-    "timeYear": 3549,
-    "dailyMinutesDown": {
-      "2021-02-17": 7
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 3553,
+    "timeDay": 4332,
+    "timeWeek": 4304,
+    "timeMonth": 3644,
+    "timeYear": 3553,
+    "dailyMinutesDown": {}
   },
   {
     "name": "WP ERBM",
@@ -68,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 7915,
-    "timeDay": 5932,
-    "timeWeek": 6997,
-    "timeMonth": 7956,
-    "timeYear": 7915,
+    "time": 7879,
+    "timeDay": 6407,
+    "timeWeek": 7004,
+    "timeMonth": 7949,
+    "timeYear": 7879,
     "dailyMinutesDown": {}
   }
 ]
