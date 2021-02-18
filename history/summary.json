@@ -4,9 +4,9 @@
     "url": "$WP_SUR",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "source",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.95%",
@@ -16,6 +16,7 @@
     "timeMonth": 527,
     "timeYear": 517,
     "dailyMinutesDown": {
+      "2021-02-18": 0,
       "2021-01-28": 21
     }
   },
@@ -49,7 +50,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 3553,
-    "timeDay": 4332,
+    "timeDay": 3723,
     "timeWeek": 4304,
     "timeMonth": 3644,
     "timeYear": 3553,
