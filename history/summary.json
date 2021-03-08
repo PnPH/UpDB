@@ -24,10 +24,10 @@
     "url": "$WP_NUR",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "wp-nur",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 6416,
@@ -35,16 +35,18 @@
     "timeWeek": 5415,
     "timeMonth": 6915,
     "timeYear": 6416,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-03-08": 2
+    }
   },
   {
     "name": "WP Far",
     "url": "$WP_FAR",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "wp-far",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -53,7 +55,9 @@
     "timeWeek": 5186,
     "timeMonth": 4508,
     "timeYear": 3896,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-03-08": 0
+    }
   },
   {
     "name": "WP ERBM",
