@@ -24,19 +24,19 @@
     "url": "$WP_NUR",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "wp-nur",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 6416,
-    "timeDay": 2040,
-    "timeWeek": 5415,
-    "timeMonth": 6915,
-    "timeYear": 6416,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "98.07%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.97%",
+    "time": 6343,
+    "timeDay": 2009,
+    "timeWeek": 4986,
+    "timeMonth": 6745,
+    "timeYear": 6343,
     "dailyMinutesDown": {
-      "2021-03-08": 2
+      "2021-03-08": 28
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "$WP_FAR",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "wp-far",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 3896,
-    "timeDay": 3389,
-    "timeWeek": 5186,
-    "timeMonth": 4508,
-    "timeYear": 3896,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "98.17%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.97%",
+    "time": 3901,
+    "timeDay": 3784,
+    "timeWeek": 5060,
+    "timeMonth": 4497,
+    "timeYear": 3901,
     "dailyMinutesDown": {
-      "2021-03-08": 0
+      "2021-03-08": 26
     }
   },
   {
