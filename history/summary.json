@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 476,
-    "timeDay": 796,
-    "timeWeek": 482,
-    "timeMonth": 439,
-    "timeYear": 476,
+    "time": 475,
+    "timeDay": 458,
+    "timeWeek": 479,
+    "timeMonth": 444,
+    "timeYear": 475,
     "dailyMinutesDown": {
       "2021-01-28": 21
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.97%",
-    "time": 5720,
-    "timeDay": 2797,
-    "timeWeek": 2402,
-    "timeMonth": 5182,
-    "timeYear": 5720,
+    "time": 5682,
+    "timeDay": 2945,
+    "timeWeek": 2476,
+    "timeMonth": 4983,
+    "timeYear": 5682,
     "dailyMinutesDown": {
       "2021-03-08": 28
     }
@@ -46,15 +46,15 @@
     "slug": "wp-far",
     "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "96.98%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.57%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.93%",
-    "time": 3940,
-    "timeDay": 6178,
-    "timeWeek": 4313,
-    "timeMonth": 4514,
-    "timeYear": 3940,
+    "time": 3952,
+    "timeDay": 4784,
+    "timeWeek": 4465,
+    "timeMonth": 4405,
+    "timeYear": 3952,
     "dailyMinutesDown": {
       "2021-03-18": 44,
       "2021-03-08": 26
@@ -71,11 +71,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 6579,
-    "timeDay": 5976,
-    "timeWeek": 6376,
-    "timeMonth": 4654,
-    "timeYear": 6579,
+    "time": 6583,
+    "timeDay": 6884,
+    "timeWeek": 6233,
+    "timeMonth": 4674,
+    "timeYear": 6583,
     "dailyMinutesDown": {}
   }
 ]
