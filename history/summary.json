@@ -12,8 +12,8 @@
     "uptimeYear": "99.98%",
     "time": 475,
     "timeDay": 384,
-    "timeWeek": 546,
-    "timeMonth": 461,
+    "timeWeek": 469,
+    "timeMonth": 445,
     "timeYear": 475,
     "dailyMinutesDown": {
       "2021-01-28": 21
@@ -32,8 +32,8 @@
     "uptimeYear": "99.97%",
     "time": 5474,
     "timeDay": 2637,
-    "timeWeek": 2566,
-    "timeMonth": 3806,
+    "timeWeek": 2527,
+    "timeMonth": 3587,
     "timeYear": 5474,
     "dailyMinutesDown": {
       "2021-03-08": 28
@@ -52,8 +52,8 @@
     "uptimeYear": "99.94%",
     "time": 3934,
     "timeDay": 3731,
-    "timeWeek": 3880,
-    "timeMonth": 4307,
+    "timeWeek": 3855,
+    "timeMonth": 4297,
     "timeYear": 3934,
     "dailyMinutesDown": {
       "2021-03-18": 44,
@@ -65,17 +65,17 @@
     "url": "$WP_ERBM",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "wp-erbm",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 6710,
-    "timeDay": 11091,
-    "timeWeek": 7783,
-    "timeMonth": 5194,
-    "timeYear": 6710,
+    "time": 6722,
+    "timeDay": 9945,
+    "timeWeek": 7769,
+    "timeMonth": 5276,
+    "timeYear": 6722,
     "dailyMinutesDown": {}
   }
 ]
