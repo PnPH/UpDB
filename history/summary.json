@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 471,
-    "timeDay": 368,
-    "timeWeek": 459,
-    "timeMonth": 447,
-    "timeYear": 471,
+    "time": 468,
+    "timeDay": 246,
+    "timeWeek": 433,
+    "timeMonth": 441,
+    "timeYear": 468,
     "dailyMinutesDown": {
       "2021-01-28": 21
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.98%",
-    "time": 5329,
-    "timeDay": 2454,
-    "timeWeek": 2567,
-    "timeMonth": 3200,
-    "timeYear": 5329,
+    "time": 5287,
+    "timeDay": 1768,
+    "timeWeek": 2417,
+    "timeMonth": 3154,
+    "timeYear": 5287,
     "dailyMinutesDown": {
       "2021-03-08": 28
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.94%",
-    "time": 3953,
-    "timeDay": 4342,
-    "timeWeek": 4006,
-    "timeMonth": 4344,
-    "timeYear": 3953,
+    "time": 3937,
+    "timeDay": 2589,
+    "timeWeek": 3812,
+    "timeMonth": 4289,
+    "timeYear": 3937,
     "dailyMinutesDown": {
       "2021-03-18": 44,
       "2021-03-08": 26
@@ -66,16 +66,20 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "wp-erbm",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "99.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 6740,
-    "timeDay": 6475,
-    "timeWeek": 7913,
-    "timeMonth": 5331,
-    "timeYear": 6740,
-    "dailyMinutesDown": {}
+    "uptimeMonth": "99.78%",
+    "uptimeYear": "99.90%",
+    "time": 6733,
+    "timeDay": 6128,
+    "timeWeek": 7821,
+    "timeMonth": 5355,
+    "timeYear": 6733,
+    "dailyMinutesDown": {
+      "2021-03-18": 44,
+      "2021-03-08": 54,
+      "2021-01-28": 21
+    }
   }
 ]
