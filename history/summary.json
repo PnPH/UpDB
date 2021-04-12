@@ -24,17 +24,17 @@
     "url": "$WP_NUR",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "wp-nur",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 4959,
-    "timeDay": 1809,
-    "timeWeek": 3181,
-    "timeMonth": 2616,
-    "timeYear": 4959,
+    "time": 4949,
+    "timeDay": 2859,
+    "timeWeek": 3272,
+    "timeMonth": 2656,
+    "timeYear": 4949,
     "dailyMinutesDown": {
       "2021-03-08": 28
     }
