@@ -65,17 +65,17 @@
     "url": "$WP_ERBM",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "wp-erbm",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 6862,
-    "timeDay": 7083,
-    "timeWeek": 7432,
-    "timeMonth": 7367,
-    "timeYear": 6862,
+    "time": 6904,
+    "timeDay": 9052,
+    "timeWeek": 7881,
+    "timeMonth": 7474,
+    "timeYear": 6904,
     "dailyMinutesDown": {}
   }
 ]
