@@ -73,9 +73,9 @@
     "url": "$WP_ERBM",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "wp-erbm",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.77%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.96%",
@@ -85,6 +85,7 @@
     "timeMonth": 8092,
     "timeYear": 7153,
     "dailyMinutesDown": {
+      "2021-06-18": 0,
       "2021-06-15": 23,
       "2021-05-09": 76,
       "2021-05-08": 0
