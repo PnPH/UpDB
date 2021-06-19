@@ -1,7 +1,7 @@
 url: $WP_ERBM
-status: up
-code: 200
-responseTime: 1025
-lastUpdated: 2021-06-19T13:08:38.891Z
+status: down
+code: 522
+responseTime: 15510
+lastUpdated: 2021-06-19T13:36:33.659Z
 startTime: Sat Jan 09 2021 21:13:04 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
