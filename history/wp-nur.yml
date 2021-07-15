@@ -1,7 +1,7 @@
 url: $WP_NUR
-status: up
-code: 200
-responseTime: 1598
-lastUpdated: 2021-07-14T23:13:19.696Z
+status: down
+code: 503
+responseTime: 754
+lastUpdated: 2021-07-15T14:39:50.040Z
 startTime: Sat Jan 09 2021 21:12:56 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
